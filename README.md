@@ -2,7 +2,7 @@
 
  The code challenges at the end of modules 1 through 4 are designed for two
 purposes: to expose students to the sorts of challenges they can expect when
-interviewing for jobs, and to identify students who may benefit from addition
+interviewing for jobs, and to identify students who may benefit from additional
 time reviewing the core concepts from a module. Because the topics we cover in
 each module are vital to your success through the remainder of this course and
 as a future web developer, we rely on the results of these challenges as a
