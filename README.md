@@ -42,14 +42,14 @@ equipped to be successful post-graduation.
 Depending on the outcome of your challenge, your instructors may give you
 specific projects or review certain concepts to help cover any gaps in
 understanding. However, repeating module topics you already grasp will still
-be beneficial to you. Working on a topic you understand is an opportunity for
+benefit you. Working on a topic you understand is an opportunity for
 you to help teach your peers and improve your technical communication
 abilities, which are both integral skills to being a strong developer.
 
 ### What should I do differently if I am repeating?
 
 Because of the limited time we have and the amount of topics we need to teach
-in this 15 week course, it is impossible for a student to fully master any of
+in this course, it is impossible for a student to fully master any of
 the topics we cover. Repeating coursework will strengthen your understanding and
 better equip you going forward. The purpose of this course is to not only teach
 students web development skills, but to teach the skills necessary for
