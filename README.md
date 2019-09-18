@@ -31,6 +31,10 @@ get you to your ultimate goal quicker!
 
 ### I feel like I understand what was taught, I just made some mistakes during the challenge. I get nervous during tests
 
+<p align="center">
+ <img src="https://curriculum-content.s3.amazonaws.com/module-3/retake/Image_115_Programmer%20Anxiety.png" width="500" alt="anxiety students"/> 
+</p>
+
 Test taking, working under pressure, and time constraints are their own skills.
 However, part of the purpose of these challenges is to expose students to the
 sort of structure that you may face during job interviews. The best way to
