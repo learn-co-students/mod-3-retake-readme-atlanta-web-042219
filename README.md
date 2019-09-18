@@ -60,6 +60,10 @@ abilities, which are both integral skills to being a strong developer.
 
 ### What should I do differently if I am repeating?
 
+<p align="center">
+ <img src="https://curriculum-content.s3.amazonaws.com/module-3/retake/%28120%29%20LightBulbRUBY.png" width="500" alt="idea"/> 
+</p>
+
 Because of the limited time we have and the amount of topics we need to teach
 in this course, it is impossible for a student to fully master any of
 the topics we cover. Repeating coursework will strengthen your understanding and
