@@ -47,6 +47,10 @@ equipped to be successful post-graduation.
 
 ### I understand most of what was taught in the module, I just need to review one part
 
+<p align="center">
+ <img src="https://curriculum-content.s3.amazonaws.com/module-3/retake/Image_117_Programming%20Languages.png" width="500" alt="studying"/> 
+</p>
+
 Depending on the outcome of your challenge, your instructors may give you
 specific projects or review certain concepts to help cover any gaps in
 understanding. However, repeating module topics you already grasp will still
