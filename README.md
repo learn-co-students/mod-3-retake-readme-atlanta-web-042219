@@ -1,5 +1,9 @@
 # Repeating a Module - What to Expect
 
+<p align="center">
+ <img src="https://curriculum-content.s3.amazonaws.com/module-3/retake/Image_114_ANIMATION.gif" width="500" alt="repeating a module"/> 
+</p>
+
  The code challenges at the end of modules 1 through 4 are designed for two
 purposes: to expose students to the sorts of challenges they can expect when
 interviewing for jobs, and to identify students who may benefit from additional
